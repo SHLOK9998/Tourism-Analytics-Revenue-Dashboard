@@ -1,4 +1,4 @@
-# 🌍 Regional Tourism Insights Dashboard
+# 🌍 Regional Tourism Insights Dashboard                                                                                                                              DATE : 25/07/2025
 
 An interactive Tableau dashboard that analyzes regional tourism trends, revenue patterns, and tourist behavior across multiple regions and tour categories.
 
@@ -9,6 +9,8 @@ An interactive Tableau dashboard that analyzes regional tourism trends, revenue 
 This project presents a comprehensive **tourism analytics dashboard** built in Tableau, designed to help tourism boards, travel agencies, and policymakers understand tourist flow, spending behavior, and regional performance.
 
 The dashboard leverages a rich dataset spanning multiple years, regions, and tour types to surface meaningful insights — from seasonal tourist trends to high-revenue tour categories and regional profit breakdowns.
+
+This project is output of my 15 days ibm skillbuild online internship which was done in the july 2025 .
 
 ---
 
@@ -143,10 +145,10 @@ This dashboard is valuable for:
 
 ## 📬 Contact
 
-**Created by:** *Your Name*
-**LinkedIn:** [your-linkedin](#)
-**Tableau Public:** [your-tableau-profile](#)
-**Email:** your.email@example.com
+**Created by:** *Shlok Panchal*
+**LinkedIn:** www.linkedin.com/in/panchalshlok(#)
+**Tableau Public:**https://public.tableau.com/app/profile/shlok.panchal1895 (#)
+**Email:** shlokpanchal1812@gmail.com
 
 ---
 
