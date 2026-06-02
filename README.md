@@ -145,9 +145,12 @@ This dashboard is valuable for:
 
 ## 📬 Contact
 
-**Created by:** *Shlok Panchal*
-**LinkedIn:** www.linkedin.com/in/panchalshlok(#)
-**Tableau Public:**https://public.tableau.com/app/profile/shlok.panchal1895 (#)
+**Created by:** Shlok Panchal
+
+**LinkedIn:** www.linkedin.com/in/panchalshlok
+
+**Tableau Public:** https://public.tableau.com/app/profile/shlok.panchal1895 
+
 **Email:** shlokpanchal1812@gmail.com
 
 ---
