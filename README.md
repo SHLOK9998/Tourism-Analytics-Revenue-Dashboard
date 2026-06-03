@@ -158,5 +158,5 @@ This dashboard is valuable for:
 ## ⭐ If you found this useful, please star the repo!
 
 ```
-git clone https://github.com/your-username/regional-tourism-dashboard.git
+https://github.com/SHLOK9998/Tourism-Analytics-Revenue-Dashboard.git
 ```
