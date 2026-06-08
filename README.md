@@ -89,19 +89,18 @@ Date         Region  Tour_Type  Accommodation  Season    Tourists  Avg_Spend   R
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/regional-tourism-dashboard.git
-   cd regional-tourism-dashboard
+   git clone https://github.com/SHLOK9998/Tourism-Analytics-Dashboard.git
    ```
 2. Open Tableau Desktop (version 2022.1 or higher recommended)
 3. Open the `.twbx` file from the repo:
    ```
-   File → Open → regional_tourism_dashboard.twbx
+   File → Open → tourism analytics & revenue dashboard.twbx
    ```
 4. The workbook loads with embedded data — no additional setup needed
 
 ### Option 3: Connect to Your Own Data
 
-1. Open the `.twb` file (without embedded data)
+1. Open the `.twbx` file (without embedded data)
 2. Reconnect to the provided Excel/CSV dataset in the `/data` folder
 3. Ensure column names match exactly as described in the Dataset section above
 
@@ -116,19 +115,9 @@ regional-tourism-dashboard/
 │
 ├── 📂 screenshots/
 │   
-├── regional_tourism_dashboard.twbx  # Tableau packaged workbook (with data)
+├── tourism analytics & revenue dashboard.twbx  # Tableau packaged workbook (with data)
 └── README.md
 ```
-
----
-
-## 🔄 Dashboard Interactivity
-
-All charts in the dashboard act as **interactive filters**. Clicking on any element updates the entire dashboard:
-
-- Click a **pie slice** → filters all charts to that tour type only
-- Click a **region bar** → filters to show only that region's data
-- Hover over **trend line points** → shows exact tourist count for that month
 
 ---
 
